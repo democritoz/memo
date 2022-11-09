@@ -2,7 +2,10 @@
 
 ## docker로 truffle, ganache 환경 세팅.
 - https://github.com/democritoz/ubuntu_solidity
-
+- 해당 세팅으로 구동중인(ganache)  
+  http://home.ziofront.com:19201/
+- ganache 로그  
+  http://home.ziofront.com:19202/
 
 ## solidity 소스 및 vscode 개발 환경
 - https://github.com/democritoz/study_solidity
