@@ -18,3 +18,7 @@ VSCode에서 solidity 개발 관련 extension을 아래 extenstion을 사용하�
 
 ## web3j 설치 및 간단 사용 방법
 - https://github.com/democritoz/memo/blob/main/web3j.md
+
+
+## Java(springboot)에서 contract 호출
+- https://github.com/democritoz/test-web3j
