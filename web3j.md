@@ -25,6 +25,6 @@ curl -L get.web3j.io | sh && source ~/.web3j/source.sh
 ````
 web3j generate truffle \
     --truffle-json=<truffle에서 생성된 json파일 경로> \
-    --outputDir=<생성된 java파일 경로> \
-    --package=<java 패키지명>
+    --outputDir=<생성할 java파일 경로> \
+    --package=<생성할 java 패키지명>
 ````
