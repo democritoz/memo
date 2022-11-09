@@ -9,5 +9,5 @@ git remote add <name> <url>
 ```
 예)  
 ```
-예) git remote add origin https://github.com/democritoz/memo.git
+git remote add origin https://github.com/democritoz/memo.git
 ```
