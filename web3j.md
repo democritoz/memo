@@ -35,7 +35,7 @@ Build timestamp: 2022-10-21 08:18:21.49 UTC
 
 
 ## truffle ABI(json file) to Java
-빌드된 contract ABI 파일(json)을 Java 애플리케이션에서 호출 하기 위한 Java Class 파일 생성 방법.  
+빌드(truffle compile)된 contract ABI 파일(json)을 Java 애플리케이션에서 호출 하기 위한 Java Class 파일 생성 방법.  
 ````
 web3j generate truffle \
     --truffle-json=<truffle에서 생성된 json파일 경로> \
